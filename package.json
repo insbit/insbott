@@ -1,0 +1,24 @@
+{
+	"name": "insbit",
+	"version": "0.0.1",
+	"description": "insbit is a multi platform bot",
+	"main": "index.js",
+	"dependencies": {
+		"discord.js": "^13.0.0-dev.755c180.1625659372",
+		"dotenv": "^10.0.0"
+	},
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/insbit/insbit.git"
+	},
+	"author": "insberr",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/insbit/insbit/issues"
+	},
+	"homepage": "https://github.com/insbit/insbit#readme"
+}
