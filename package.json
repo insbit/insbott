@@ -4,8 +4,12 @@
 	"description": "insbit is a multi platform bot",
 	"main": "index.js",
 	"dependencies": {
-		"discord.js": "^13.0.0-dev.755c180.1625659372",
-		"dotenv": "^10.0.0"
+		"@discordjs/builders": "^0.13.0",
+		"@discordjs/rest": "^0.4.1",
+		"discord-api-types": "^0.32.1",
+		"discord.js": "^13.11.0",
+		"dotenv": "^10.0.0",
+		"request": "^2.88.2"
 	},
 	"scripts": {
 		"start": "node index.js",
